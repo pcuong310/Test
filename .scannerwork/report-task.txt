@@ -1,0 +1,6 @@
+projectKey=FeatureTools.Python
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/FeatureTools.Python
+ceTaskId=AWocY07wzkarQ-btNVZg
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWocY07wzkarQ-btNVZg
